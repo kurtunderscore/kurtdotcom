@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <link rel="stylesheet"
+          href="https://fonts.googleapis.com/css?family=Barrio&amp;subset=latin-ext">
+    <style>
+      body {
+        font-family: 'Barrio', cursive;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+  <body>
+  	<div>TEST FONT</div>
+  </body>
+</html>
